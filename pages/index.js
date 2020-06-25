@@ -14,7 +14,7 @@ export default function Home({allPostsData}) {
       <section className={utilStyles.headingMd}>
         <p>Just another person wondering why I'm here...</p>
         <p>
-          I enjoy learning and eating tacos.
+          I enjoy learning and eating tacos. And, I also enjoy reading.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
